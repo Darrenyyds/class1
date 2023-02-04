@@ -1,0 +1,35 @@
+Body {
+  background-color: rgb(51, 105, 79);
+}
+.graph {
+  background-image: url(https://www.sleepdr.com/wp-content/uploads/2016/11/Sleep-Duration-Guidelines.png);
+  width: 80%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  z-index: 1;
+}
+
+.graph-shadow {
+  position: relative;
+  z-index: 2;
+  width: 68%;
+  height: 100%;
+  background-color: rgba(204, 228, 160, 0.3);
+}
+
+h1 {
+  color: rgb(98, 186, 218);
+  text-align: center;
+}
+p {
+  color: rgb(120, 184, 241);
+}
+
+ol {
+  color: rgb(120, 184, 241);
+}
+
+h2 {
+  color: rgb(108, 236, 200);
+}

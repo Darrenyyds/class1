@@ -1,0 +1,9 @@
+Body {
+  background-color: rgb(89, 177, 232);
+}
+.graph {
+  background-image: url(https://www.sleepdr.com/wp-content/uploads/2016/11/Sleep-Duration-Guidelines.png);
+  position: relative;
+  z-index: 2;
+  color: rgb(194, 238, 247);
+}
