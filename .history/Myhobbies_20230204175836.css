@@ -1,0 +1,126 @@
+Body {
+<<<<<<< HEAD
+  background-color: rgb(13, 143, 80);
+=======
+  background-color: rgb(51, 105, 79);
+>>>>>>> c61307c0f3d695abf9f0e17f8bf341314f3c5830
+}
+.graph-container {
+  width: 80%;
+  height: 600px;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+.graph {
+  background-image: url(https://www.sleepdr.com/wp-content/uploads/2016/11/Sleep-Duration-Guidelines.png);
+  height: 600px;
+  width: 68%;
+  position: absolute;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.graph-shadow {
+  position: relative;
+  z-index: 2;
+  width: 68%;
+  background-color: rgba(204, 228, 160, 0.3);
+}
+
+h1 {
+  color: rgb(98, 186, 218);
+  text-align: center;
+}
+p {
+  color: rgb(120, 184, 241);
+  text-align: center;
+}
+
+ol {
+  color: rgb(120, 184, 241);
+  text-align: center;
+  list-style-position: inside;
+}
+
+h2 {
+  color: rgb(108, 236, 200);
+  text-align: center;
+}
+<<<<<<< HEAD
+
+.lists {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.vid {
+  display: flex;
+  justify-content: center;
+}
+
+.sleep-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+.sleep-container radio {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.yes-no {
+  position: relative;
+  left: -40px;
+}
+
+.yes-no text {
+  color: rgb(95, 186, 228);
+}
+
+.sleep-time {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.sleep-time text {
+  color: rgb(95, 186, 228);
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.Buy button {
+  background-color: rgb(17, 142, 219);
+  border-radius: 10px;
+  color: rgb(108, 236, 200);
+  font-size: 15px;
+  width: 150px;
+  height: 30px;
+}
+.email-button {
+  display: flex;
+  justify-content: center;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+}
+.submit button {
+  background-color: rgb(17, 142, 219);
+  width: 120px;
+  height: 50px;
+  border-radius: 10px;
+  color: rgb(108, 236, 200);
+  font-size: 15px;
+}
+=======
+>>>>>>> c61307c0f3d695abf9f0e17f8bf341314f3c5830
